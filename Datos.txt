@@ -1,0 +1,5 @@
+Harry Potter,JK Rowling,3,25.99
+Mist Born,Brandon Sanderson,5,30.99
+Mundo Disco,Terry Pratchet,6,15.99
+El Resplandor,Stephen King,10,35.99
+El Senor De Los Anillos,JRR Tolkien,20,40.99
